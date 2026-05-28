@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 hhshs
+=======
+
+HI MY NAME IS DIVUA NSHU 
+jajajaaja
+hdhaa
+>>>>>>> features/practice
