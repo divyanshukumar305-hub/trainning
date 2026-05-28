@@ -1,0 +1,2 @@
+# trainning
+Git trainning
